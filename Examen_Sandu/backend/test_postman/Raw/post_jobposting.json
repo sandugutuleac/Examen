@@ -1,0 +1,16 @@
+{
+    "JobPostingDescription": "Examen_JobPost",
+    "JobPostingDeadline": "2020-03-29",
+    "Candidates": [
+        {
+            "CandidateName": "Vasile Strat",
+            "CandidateCV": "De aproximativ 5 ani lucrez in industria IT la o firma multinationala. Pot spune ca am destul de multa experienta avand in vedere proiectele la care am luat parte.",
+            "CandidateEmail": "vasile@bar.com"
+        },
+        {
+            "CandidateName": "Andrei tttt",
+            "CandidateCV": "De aproximativ 5 ani lucrez in industria IT la o firma multinationala. Pot spune ca am destul de multa experienta avand in vedere proiectele la care am luat parte.",
+            "CandidateEmail": "andrei@bar.com"
+        }
+    ]
+}

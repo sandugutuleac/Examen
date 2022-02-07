@@ -1,0 +1,2 @@
+Method: GET http://localhost:8000/api//jobpostingSort?description=Web_Exam
+to get the sorted data

@@ -1,0 +1,4 @@
+Method: GET http://localhost:8000/api/jobposting
+to get all jobpostings
+Method: GET http://localhost:8000/api/jobposting/3
+to get the 3rd jobposting

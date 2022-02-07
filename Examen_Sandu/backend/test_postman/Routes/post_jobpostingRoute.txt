@@ -1,0 +1,2 @@
+Method: POST http://localhost:8000/api/jobposting
+to add a new jobpost (optional with candidates)

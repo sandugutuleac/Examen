@@ -1,0 +1,2 @@
+Method: PUT http://localhost:8000/api/jobposting/3
+to update the 3rd jobposting

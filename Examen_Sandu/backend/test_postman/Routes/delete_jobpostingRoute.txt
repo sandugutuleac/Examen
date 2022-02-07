@@ -1,0 +1,2 @@
+Method: DELETE http://localhost:8000/api/jobposting/2
+to delete the 2nd jobposting

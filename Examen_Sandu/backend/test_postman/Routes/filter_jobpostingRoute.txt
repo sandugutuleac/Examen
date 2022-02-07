@@ -1,0 +1,2 @@
+Method: GET http://localhost:8000/api//jobpostingFilter?jobPostingDescription=Job&jobPostingDeadline=2020-03-29
+to get the filtered data
